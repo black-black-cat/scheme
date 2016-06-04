@@ -18,7 +18,7 @@ base 07: #D8DEE9 JSON key - Level 6
 base 08: #EC5f67 赤 标签(html)
 base 09: #F99157 橙 形参 布尔 数字
 base 0A: #FAC863 黄 全局 全局变量 全局属性
-base 0B: #99C794 绿 属性 字符串
+base 0B: #99C794 绿 属性键key 字符串
 base 0C: #5FB3B3 青 运算符
 base 0D: #6699CC 蓝 函数名 方法
 base 0E: #C594C5 紫 关键字：声明、流程控制语句
@@ -45,3 +45,16 @@ Pink         | `#ff79c6` | `255 121 198` | `326° 100% 74%` | ![Pink Color](http
 Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](https://draculatheme.com/assets/img/color-boxes/purple.png)
 Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https://draculatheme.com/assets/img/color-boxes/red.png)
 Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://draculatheme.com/assets/img/color-boxes/yellow.png)
+
+```
+我在webstorm中的定制：
+粉红 运算符
+赤 数字
+橙 形参
+黄 字符串
+绿 函数 方法
+青 属性键key
+蓝 注释
+紫 关键字：语句
+```
+
