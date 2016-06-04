@@ -4,6 +4,7 @@
 
 
 ## Oceanic Next
+[Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme)
 ![Color Picker Sample](https://packagecontrol.io/readmes/img/75db47e3185b7cbd9ffd347909f7c8e197ae7073.png)
 
 ```
@@ -30,6 +31,7 @@ base 0F: #AB7967 褐 JSON key - Level 4
 
 
 ## Dracula
+[Dracula](https://github.com/dracula/dracula-theme)
 
 Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/assets/img/color-boxes/eyedropper.png)
 ---          | ---       | ---           | ---             | ---
