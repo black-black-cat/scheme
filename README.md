@@ -5,6 +5,7 @@
 
 ## Oceanic Next
 [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme)
+[packagecontrol: Oceanic Next](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme)
 ![Color Picker Sample](https://packagecontrol.io/readmes/img/75db47e3185b7cbd9ffd347909f7c8e197ae7073.png)
 
 ```
