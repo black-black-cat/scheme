@@ -50,7 +50,7 @@ Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https
 Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://draculatheme.com/assets/img/color-boxes/yellow.png)
 
 ```
-我在webstorm中的定制：
+webstorm中的定制：
 粉红 运算符
 赤 数字
 橙 形参
@@ -61,3 +61,6 @@ Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](ht
 紫 关键字：语句
 ```
 
+### 字体
+
+iosevka custom
