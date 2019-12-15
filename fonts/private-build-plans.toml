@@ -1,0 +1,53 @@
+# d for distinguished
+[buildPlans.iosevka-d]
+family = "iosevka-d"                           # Font menu family name
+# Customize styles
+design = [
+    "v-y-curly",
+    "v-asterisk-low",
+    "v-underscore-low",
+    "v-a-doublestorey",
+    "v-percent-dots"
+]
+
+[buildPlans.iosevka-d.weights.regular]
+shape = 400                            # Weight for glyph shapes
+menu  = 400                            # Weight for menu name
+css   = 400                            # Weight for webfont CSS
+
+[buildPlans.iosevka-d.weights.bold]
+shape = 700
+menu  = 700
+css   = 700
+
+# y for curly y
+[buildPlans.iosevka-y]
+family = "iosevka-y"                           # Font menu family name
+# Customize styles
+design = [
+    "v-y-curly",
+]
+
+[buildPlans.iosevka-y.weights.regular]
+shape = 400                            # Weight for glyph shapes
+menu  = 400                            # Weight for menu name
+css   = 400                            # Weight for webfont CSS
+
+[buildPlans.iosevka-y.weights.bold]
+shape = 700
+menu  = 700
+css   = 700
+
+[buildPlans.iosevka-custom]                         # <iosevka-custom> is your plan name
+family = "Iosevka Custom"                           # Font menu family name
+design = ['ss08', 'v-y-curly', 'v-brace-curly'] # Customize styles
+
+[buildPlans.iosevka-custom.weights.regular]
+shape = 400                            # Weight for glyph shapes
+menu  = 400                            # Weight for menu name
+css   = 400                            # Weight for webfont CSS
+
+[buildPlans.iosevka-custom.weights.bold]
+shape = 700
+menu  = 700
+css   = 700
