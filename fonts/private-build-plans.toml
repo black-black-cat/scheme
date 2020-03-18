@@ -1,53 +1,42 @@
-# d for distinguished
-[buildPlans.iosevka-d]
-family = "iosevka-d"                           # Font menu family name
-# Customize styles
+[buildPlans.i3]                         # <iosevka-custom> is your plan name
+family = "i3"                           # Font menu family name
 design = [
-    "v-y-curly",
+	"v-y-cursive",
     "v-asterisk-low",
     "v-underscore-low",
     "v-a-doublestorey",
-    "v-percent-dots"
-]
+    "v-percent-dots",
+    "no-ligation"
+] # Customize styles
+hintParams = ["-a", "sss"]                          # Optional custom parameters for ttfautohint
 
-[buildPlans.iosevka-d.weights.regular]
-shape = 400                            # Weight for glyph shapes
-menu  = 400                            # Weight for menu name
-css   = 400                            # Weight for webfont CSS
 
-[buildPlans.iosevka-d.weights.bold]
-shape = 700
-menu  = 700
-css   = 700
+# Override default building weights
+# When buildPlans.<plan name>.weights is absent
+# All weights would built and mapped to default shape/CSS
+# IMPORTANT : Currently "menu" property only support 100, 200, 300, 400, 450, 500, 600, 700, 800, 900.
+#              and "shape" properly only supports number between 100 and 900 (inclusive).
+[buildPlans.i3.weights.regular]
+shape = 400  # Weight for glyph shapes
+menu  = 400  # Weight for menu name
+css   = 400  # Weight for webfont CSS
 
-# y for curly y
-[buildPlans.iosevka-y]
-family = "iosevka-y"                           # Font menu family name
-# Customize styles
-design = [
-    "v-y-curly",
-]
+# [buildPlans.iosevka-custom.weights.book]
+# shape = 450
+# menu  = 450  # Use 450 here to name the font's weight "Book"
+# css   = 450
 
-[buildPlans.iosevka-y.weights.regular]
-shape = 400                            # Weight for glyph shapes
-menu  = 400                            # Weight for menu name
-css   = 400                            # Weight for webfont CSS
+# [buildPlans.iosevka-custom.weights.bold]
+# shape = 700
+# menu  = 700
+# css   = 700
+# end weight section
 
-[buildPlans.iosevka-y.weights.bold]
-shape = 700
-menu  = 700
-css   = 700
 
-[buildPlans.iosevka-custom]                         # <iosevka-custom> is your plan name
-family = "Iosevka Custom"                           # Font menu family name
-design = ['ss08', 'v-y-curly', 'v-brace-curly'] # Customize styles
-
-[buildPlans.iosevka-custom.weights.regular]
-shape = 400                            # Weight for glyph shapes
-menu  = 400                            # Weight for menu name
-css   = 400                            # Weight for webfont CSS
-
-[buildPlans.iosevka-custom.weights.bold]
-shape = 700
-menu  = 700
-css   = 700
+# Override default building slant sets
+# Format: <upright|italic|oblique> = <"normal"|"italic"|"oblique">
+# When this section is absent, all slants would be built.
+[buildPlans.i3.slants]
+upright = "normal"
+italic = "italic"
+oblique = "oblique"
