@@ -34,20 +34,20 @@ base 0F: #AB7967 褐 JSON key - Level 4
 ## Dracula
 [Dracula](https://github.com/dracula/dracula-theme)
 
-Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/assets/img/color-boxes/eyedropper.png)
+Palette      | Hex       | RGB           | HSL             | View
 ---          | ---       | ---           | ---             | ---
-Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | ![Background Color](https://draculatheme.com/assets/img/color-boxes/background.png)
-Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Current Line Color](https://draculatheme.com/assets/img/color-boxes/current_line.png)
-Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Selection Color](https://draculatheme.com/assets/img/color-boxes/selection.png)
-Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://draculatheme.com/assets/img/color-boxes/foreground.png)
-Comment      | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | ![Comment Color](https://draculatheme.com/assets/img/color-boxes/comment.png)
-Cyan         | `#8be9fd` | `139 233 253` | `191° 97% 77%`  | ![Cyan Color](https://draculatheme.com/assets/img/color-boxes/cyan.png)
-Green        | `#50fa7b` | `80 250 123`  | `135° 94% 65%`  | ![Green Color](https://draculatheme.com/assets/img/color-boxes/green.png)
-Orange       | `#ffb86c` | `255 184 108` | `31° 100% 71%`  | ![Orange Color](https://draculatheme.com/assets/img/color-boxes/orange.png)
-Pink         | `#ff79c6` | `255 121 198` | `326° 100% 74%` | ![Pink Color](https://draculatheme.com/assets/img/color-boxes/pink.png)
-Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](https://draculatheme.com/assets/img/color-boxes/purple.png)
-Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https://draculatheme.com/assets/img/color-boxes/red.png)
-Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://draculatheme.com/assets/img/color-boxes/yellow.png)
+Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | ![#282a36](https://placehold.it/16/282a36/000000?text=+)
+Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![#44475a](https://placehold.it/16/44475a/000000?text=+)
+Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![#44475a](https://placehold.it/16/44475a/000000?text=+)
+Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![#f8f8f2](https://placehold.it/16/f8f8f2/000000?text=+)
+Comment      | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | ![#6272a4](https://placehold.it/16/6272a4/000000?text=+)
+Cyan         | `#8be9fd` | `139 233 253` | `191° 97% 77%`  | ![#8be9fd](https://placehold.it/16/8be9fd/000000?text=+)
+Green        | `#50fa7b` | `80 250 123`  | `135° 94% 65%`  | ![#50fa7b](https://placehold.it/16/50fa7b/000000?text=+)
+Orange       | `#ffb86c` | `255 184 108` | `31° 100% 71%`  | ![#ffb86c](https://placehold.it/16/ffb86c/000000?text=+)
+Pink         | `#ff79c6` | `255 121 198` | `326° 100% 74%` | ![#ff79c6](https://placehold.it/16/ff79c6/000000?text=+)
+Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![#bd93f9](https://placehold.it/16/bd93f9/000000?text=+)
+Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![#ff5555](https://placehold.it/16/ff5555/000000?text=+)
+Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![#f1fa8c](https://placehold.it/16/f1fa8c/000000?text=+)
 
 ```
 webstorm中的定制：
